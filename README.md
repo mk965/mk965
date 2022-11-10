@@ -4,3 +4,7 @@
 >I am a frontEnd web developer from China.
 
 🔗 https://mk965.github.io/
+
+Thank you for visiting my GitHub! Hope we can be friends 😊！
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mk965.mk965)
