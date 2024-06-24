@@ -1,6 +1,6 @@
-<h2 ><img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" /> Hi! My name is Mengke 😄</h2>
+<h2 ><img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" /> 𝑯𝒊, 𝑴𝒚 𝒏𝒂𝒎𝒆 𝒊𝒔 𝑴𝒆𝒏𝒈𝒌𝒆 😄</h2>
 
-<a href="https://mengke.me"><img src="https://img.shields.io/badge/Home-mengke.me-blue" alt="blog"></a>
+<a href="https://mengke.me"><img src="https://img.shields.io/badge/🏠 Home-mengke.me-blue" alt="blog"></a>
 <img src="https://img.shields.io/badge/email-me@mengke.me-brightgreen" alt="email" />
 
 **𝘼𝙗𝙤𝙪𝙩 𝙢𝙚**
